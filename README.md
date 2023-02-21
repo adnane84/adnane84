@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/adnane84/adnane84/master/assets/Adnane%Abid%20Singh%20Banner.png">
+
 
 <h2> Hey there! I'm Adnane.</h2>
 
