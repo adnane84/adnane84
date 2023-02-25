@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Adnane.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About My JoUrNeY</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
